@@ -1,0 +1,35 @@
+{
+  "data" :  [
+    {
+       "id": 1,
+       "title": "Sample Task 1",
+       "description": "This is a sample task 1",
+       "dueDate": "2023-10-15T12:00:00Z",
+       "createdAt": "2023-10-10T08:00:00Z",
+       "updatedAt": "2023-10-10T08:00:00Z"
+    },
+    {
+       "id": 2,
+       "title": "Sample Task 2",
+       "description": "This is a sample task 2",
+       "dueDate": "2023-10-20T14:00:00Z",
+       "createdAt": "2023-10-11T10:00:00Z",
+       "updatedAt": "2023-10-11T10:00:00Z"
+    },
+    {
+       "id": 3,
+       "title": "Sample Task 3",
+       "description": "This is a sample task 3",
+       "dueDate": "2023-10-13T15:41:25.591851Z",
+       "createdAt": "2023-10-10T15:41:25.591851Z",
+       "updatedAt": "2023-10-10T15:41:25.591851Z"
+    },
+    {
+       "id": 4,
+       "title": "Sample Task 4",
+       "description": "This is a sample task 4",
+       "dueDate": "2023-10-14T15:41:25.591851Z",
+       "createdAt": "2023-10-10T15:41:25.591851Z",
+       "updatedAt": "2023-10-10T15:41:25.591851Z"
+    }]
+}
